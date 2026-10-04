@@ -1,5 +1,5 @@
 #!/bin/bash
-# gestion_ldap_mail.sh - Gestión del atributo "mail" de los usuarios del dominio LDAP
+# angeltorresldap.sh - Gestión del atributo "mail" de los usuarios del dominio LDAP
 # Este script permite eliminar, modificar y buscar correos electrónicos en un servidor LDAP.
 
 echo "=== Configuración de conexión LDAP ==="
